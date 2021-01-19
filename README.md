@@ -1,4 +1,4 @@
-## Swift 30 Projects 
+## Swift 30 Проектов / Rework by Azerzet
 
 ![cover](./cover.jpg)
 
