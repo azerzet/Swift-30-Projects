@@ -1,6 +1,6 @@
 ## Swift 30 Projects
 
-![Cover](./Cover.jpg)
+![cover](./cover.jpg)
 
 ## Contents
 This repo is updated with Swift 5 and compatible with iPhone X:
